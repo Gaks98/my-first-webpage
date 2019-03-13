@@ -1,0 +1,22 @@
+body {
+  background:linear-gradient(red, white, green);
+}
+h1 {
+  color: blue;
+  text-align:center;
+}
+h2 {
+  color: Green;
+  font-style: italic;
+  font-size: 21px;
+}
+#first{
+  font-family: sans-serif;
+  font-size: 24px;
+  color: red;
+}
+#second{
+  font-family: fantasy;
+  font-size: 24px;
+  color:purple;
+}
